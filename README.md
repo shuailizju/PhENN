@@ -6,6 +6,8 @@ This is the repo for phase extraction neural network (PHENN)
 run Train.py
 
 # Requirement
-Python
-Keras
-Tensorflow
+* Python
+
+* Keras
+
+* Tensorflow
